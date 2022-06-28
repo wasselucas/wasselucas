@@ -1,5 +1,5 @@
 # Olá, eu sou Wasse Lucas 😎
-- 📚💻 Sou graduando de Análise e Desenvolvimento Sistemas atualmente estou cursando o 3° semestre.
+- 📚💻 Sou graduando de Análise e Desenvolvimento Sistemas atualmente estou cursando o 4° semestre.
 - 💻 📚 Estudante na Digital House Web Full Stack | HTML | CSS | Javascript | Node.Js | React | Express | MySql
 
 <div align="center">
